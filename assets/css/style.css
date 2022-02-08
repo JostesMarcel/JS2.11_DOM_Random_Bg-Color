@@ -1,3 +1,8 @@
-button{
-    margin: 50vh 50vh;
+div{
+    display: flex;
+    justify-content: center;
+    margin-top: 40%;
 }
+/* button{
+    margin: 50vh 50vh;
+} */
